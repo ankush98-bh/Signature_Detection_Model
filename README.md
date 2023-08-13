@@ -43,7 +43,7 @@ $ cd Signature-Detection
 Install the required Python packages using pip:
 $ pip install tensorflow opencv-python numpy matplotlib 
 
-# Ecducation
+# Execution
   Prepare your dataset by organizing the images of signatures and non-signatures into separate directories. 
   Modify the paths to these directories in the with_sign_files and without_sign_files variables within the Detect_sign class.
   
