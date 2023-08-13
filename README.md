@@ -9,7 +9,7 @@ Table of Contents
 ---> Approch
 --->Import Libraries
 --->Installation
---->Usage
+--->Executaion
 --->Configuration
 --->Results
 --->Contributing
