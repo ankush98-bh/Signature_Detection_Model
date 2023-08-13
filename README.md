@@ -37,7 +37,7 @@ thresh then image conatains signature. after that by using openCV crop image by 
 # Installation
 Clone this repository to your local machine:
 bash
-$ git clone []
+$ git clone [https://github.com/ankush98-bh/Signature_Detection_model/tree/master]
 $ cd Signature-Detection
 
 Install the required Python packages using pip:
